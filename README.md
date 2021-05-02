@@ -1,3 +1,5 @@
 # Log-analyzer
-FIT VUT
+- FIT VUT
 IOS-Projekt 1
+
+- April 2021
