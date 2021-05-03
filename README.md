@@ -1,5 +1,5 @@
 # Log-analyzer
 - FIT VUT
-IOS-Projekt 1
+Operační systémy-Projekt 1
 
 - April 2021
